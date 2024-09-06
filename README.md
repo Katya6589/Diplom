@@ -1,5 +1,6 @@
 # Diplom
 # [Доска](https://ru.yougile.com/board/lbrrou8923k7)
+https://ru.yougile.com/team/3b0c56690fad/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC
 
 ### Вопросы для диплома 
 1. Что вы будете делать: игру головоломку
